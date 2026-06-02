@@ -2,9 +2,13 @@
 
 This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
 
-Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.app/)
+Live site: https://my-new-portfolio-beta-three.vercel.app/
+
+Repository: https://github.com/aj0998-dotcom/my-new-portfolio
 
 ![Portfolio Preview](public/images/preview1.png)
+
+Live status badge: [![Live on Vercel](https://img.shields.io/badge/deploy-vercel-000000?logo=vercel&logoColor=white)](https://my-new-portfolio-beta-three.vercel.app/)
 
 ## Table of Contents
 
@@ -170,6 +174,34 @@ You can adapt this portfolio to your own profile by updating the following areas
    ```
 
 3. Deploy the generated `dist/` folder to your hosting provider (for example Vercel, Netlify, or Cloudflare Pages).
+
+Triggering a GitHub -> Vercel deploy
+
+If your repository is connected to Vercel (recommended), pushing to the branch configured in Vercel will automatically trigger a new deployment. To update GitHub and trigger a redeploy, run:
+
+```bash
+# stage changes
+git add -A
+
+# commit with a helpful message
+git commit -m "style(work): themed project image container + Work section tweaks"
+
+# push to your default branch (replace `main` if your repo uses a different branch)
+git push origin main
+```
+
+If your repository isn't connected to Vercel yet, follow these steps:
+
+1. Create a GitHub repository and push the project (see commands above).
+2. In the Vercel dashboard, click "Import Project" → select GitHub → choose your repository.
+3. Configure the build command (`npm run build`) and the output directory (`dist`), then click "Deploy".
+
+Notes
+- After pushing to GitHub, Vercel will pick up the commit and start a deploy automatically (if linked).
+- You can view deployment logs in the Vercel dashboard for troubleshooting.
+
+Files changed in this workspace to support the Work section visuals:
+- `src/components/styles/Work.css` — added themed container, image filters, and hover effect for project images.
 
 ## License
 

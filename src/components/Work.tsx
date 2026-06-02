@@ -14,31 +14,31 @@ const projects: {
     title: "NeoCare AI",
     category: "AIoT neonatal monitoring system",
     tools: "Python, FastAPI, CatBoost, Pandas",
-    image: "/images/placeholder.webp",
+    image: "/images/neocare-ai.svg",
   },
   {
     title: "Hostel Room Booking",
     category: "Allocation and complaint management system",
     tools: "FastAPI, SQLAlchemy, MySQL, JavaScript",
-    image: "/images/placeholder.webp",
+    image: "/images/hostel-booking.svg",
   },
   {
     title: "Face Recognition System",
     category: "Real-time registration and recognition",
     tools: "Python, OpenCV, NumPy",
-    image: "/images/placeholder.webp",
+    image: "/images/face-recognition.svg",
   },
   {
     title: "GAILA Expense Tracker",
     category: "Desktop finance app with charts",
     tools: "Java, Swing, JFreeChart, JTable",
-    image: "/images/placeholder.webp",
+    image: "/images/expense-tracker.svg",
   },
   {
     title: "Career Advisor",
     category: "Quiz-based career guidance system",
     tools: "Java, JavaFX, Maven, JSON",
-    image: "/images/placeholder.webp",
+    image: "/images/career-advisor.svg",
   },
 ];
 

@@ -189,6 +189,13 @@
 
 .work-image-in {
   position: relative;
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(94, 234, 212, 0.06);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.55);
+  overflow: hidden;
+  display: inline-block;
 }
 
 .work-link {
@@ -228,9 +235,19 @@
 }
 
 .work-image img {
+  display: block;
   max-width: 100%;
   max-height: 400px;
+  height: auto;
   border-radius: 8px;
+  object-fit: cover;
+  filter: saturate(0.95) contrast(1.02) brightness(0.98);
+  transition: transform 0.5s ease, filter 0.3s ease;
+}
+
+.work-image-in:hover img {
+  transform: translateY(-6px) scale(1.01);
+  filter: saturate(1.05) contrast(1.05) brightness(1);
 }
 
 /* ── Responsive ── */

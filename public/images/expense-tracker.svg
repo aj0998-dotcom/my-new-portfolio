@@ -1,0 +1,29 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#050810"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="170" y1="120" x2="740" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" rx="32" fill="url(#bg)"/>
+  <circle cx="714" cy="120" r="90" fill="#22d3ee" opacity="0.08"/>
+  <circle cx="170" cy="468" r="126" fill="#5eead4" opacity="0.07"/>
+  <rect x="120" y="112" width="258" height="64" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(94,234,212,0.32)"/>
+  <text x="150" y="150" fill="#e8fdf8" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">GAILA Expense Tracker</text>
+  <rect x="126" y="214" width="314" height="236" rx="28" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="154" y="362" width="42" height="56" rx="10" fill="#5eead4"/>
+  <rect x="214" y="326" width="42" height="92" rx="10" fill="#22d3ee"/>
+  <rect x="274" y="288" width="42" height="130" rx="10" fill="#5eead4"/>
+  <rect x="334" y="246" width="42" height="172" rx="10" fill="#22d3ee"/>
+  <path d="M148 424H370" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+  <path d="M148 214V424" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+  <rect x="486" y="180" width="300" height="294" rx="30" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/>
+  <circle cx="566" cy="258" r="42" stroke="url(#accent)" stroke-width="10"/>
+  <path d="M566 216V258L600 280" stroke="#5eead4" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="542" y="344" fill="#9ddbd2" font-family="Arial, Helvetica, sans-serif" font-size="18">Charts, tables, and transactions</text>
+  <path d="M520 390H748" stroke="#22d3ee" stroke-width="12" stroke-linecap="round"/>
+</svg>

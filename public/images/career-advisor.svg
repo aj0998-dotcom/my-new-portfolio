@@ -1,0 +1,30 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#050810"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="180" y1="120" x2="740" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" rx="32" fill="url(#bg)"/>
+  <circle cx="706" cy="138" r="94" fill="#22d3ee" opacity="0.08"/>
+  <circle cx="190" cy="470" r="126" fill="#5eead4" opacity="0.07"/>
+  <rect x="124" y="112" width="244" height="64" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(94,234,212,0.32)"/>
+  <text x="154" y="150" fill="#e8fdf8" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Career Advisor</text>
+  <rect x="122" y="214" width="284" height="242" rx="28" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/>
+  <path d="M182 276L346 276" stroke="#5eead4" stroke-width="12" stroke-linecap="round"/>
+  <path d="M182 322L320 322" stroke="#22d3ee" stroke-width="12" stroke-linecap="round"/>
+  <path d="M182 368L294 368" stroke="#5eead4" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="222" cy="264" r="10" fill="#22d3ee"/>
+  <circle cx="222" cy="310" r="10" fill="#5eead4"/>
+  <circle cx="222" cy="356" r="10" fill="#22d3ee"/>
+  <rect x="476" y="176" width="312" height="302" rx="32" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/>
+  <path d="M532 398C572 340 622 304 678 286C704 278 734 270 760 264" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="532" cy="398" r="14" fill="#5eead4"/>
+  <circle cx="678" cy="286" r="14" fill="#22d3ee"/>
+  <circle cx="760" cy="264" r="14" fill="#5eead4"/>
+  <text x="520" y="236" fill="#9ddbd2" font-family="Arial, Helvetica, sans-serif" font-size="18">Quiz-driven guidance and mapping</text>
+</svg>

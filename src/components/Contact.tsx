@@ -29,7 +29,7 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/ajj098-dotcom"
+              href="https://github.com/aj0998-dotcom"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -38,13 +38,13 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://adj098-dotcom.github.io/my-portfolio/"
+              href="https://www.linkedin.com/in/aditya-jain-23b07831a/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              Portfolio <MdArrowOutward />
+              LinkedIn <MdArrowOutward />
             </a>
             <a
               href="tel:+916263120550"
@@ -53,7 +53,7 @@ const Contact = () => {
               data-cursor="disable"
               className="contact-social"
             >
-              Mobile <MdArrowOutward />
+              6263120550 <MdArrowOutward />
             </a>
             <a
               href="/resume.pdf"

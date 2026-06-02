@@ -1,8 +1,8 @@
 import {
   FaGithub,
-  FaGlobe,
   FaEnvelope,
   FaCode,
+  FaLinkedin,
 } from "react-icons/fa6";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
@@ -61,7 +61,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/ajj098-dotcom"
+            href="https://github.com/aj0998-dotcom/my-new-portfolio"
             target="_blank"
             rel="noreferrer"
           >
@@ -70,11 +70,11 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://adj098-dotcom.github.io/my-portfolio/"
+            href="https://www.linkedin.com/in/aditya-jain-23b07831a/"
             target="_blank"
             rel="noreferrer"
           >
-            <FaGlobe />
+            <FaLinkedin />
           </a>
         </span>
         <span>
@@ -88,7 +88,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://github.com/ajj098-dotcom"
+            href="https://github.com/aj0998-dotcom"
             target="_blank"
             rel="noreferrer"
           >

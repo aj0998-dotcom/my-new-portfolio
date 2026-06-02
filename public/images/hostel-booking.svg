@@ -1,0 +1,30 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="1" stop-color="#050810"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="120" x2="760" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" rx="32" fill="url(#bg)"/>
+  <circle cx="720" cy="132" r="94" fill="#22d3ee" opacity="0.08"/>
+  <circle cx="182" cy="470" r="124" fill="#5eead4" opacity="0.07"/>
+  <path d="M128 162H772" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
+  <rect x="132" y="112" width="248" height="60" rx="18" fill="rgba(255,255,255,0.06)" stroke="rgba(94,234,212,0.32)"/>
+  <text x="162" y="150" fill="#e8fdf8" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Hostel Room Booking</text>
+  <rect x="116" y="214" width="252" height="190" rx="26" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="402" y="180" width="374" height="260" rx="30" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/>
+  <path d="M176 274H298" stroke="#22d3ee" stroke-width="10" stroke-linecap="round"/>
+  <path d="M176 316H250" stroke="#5eead4" stroke-width="10" stroke-linecap="round"/>
+  <path d="M176 358H272" stroke="#22d3ee" stroke-width="10" stroke-linecap="round"/>
+  <rect x="438" y="214" width="136" height="86" rx="18" fill="#0b1728" stroke="rgba(94,234,212,0.42)"/>
+  <rect x="598" y="214" width="136" height="86" rx="18" fill="#0b1728" stroke="rgba(34,211,238,0.42)"/>
+  <rect x="438" y="322" width="296" height="84" rx="18" fill="#0b1728" stroke="rgba(255,255,255,0.12)"/>
+  <circle cx="489" cy="257" r="18" fill="#5eead4"/>
+  <circle cx="649" cy="257" r="18" fill="#22d3ee"/>
+  <path d="M168 488C262 438 358 412 464 412C580 412 672 442 754 490" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+  <text x="456" y="372" fill="#9ddbd2" font-family="Arial, Helvetica, sans-serif" font-size="18">Allocation, approvals, complaints</text>
+</svg>
