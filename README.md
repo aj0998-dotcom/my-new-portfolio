@@ -4,9 +4,7 @@ This repository contains the source code for a personal 3D portfolio built with 
 
 Live site: https://my-new-portfolio-beta-three.vercel.app/
 
-Repository: https://github.com/aj0998-dotcom/my-new-portfolio
-
-![Portfolio Preview](public/images/preview1.png)
+Repository: https://github.com/aj0998-dotcom/my-new-portfoli
 
 Live status badge: [![Live on Vercel](https://img.shields.io/badge/deploy-vercel-000000?logo=vercel&logoColor=white)](https://my-new-portfolio-beta-three.vercel.app/)
 
