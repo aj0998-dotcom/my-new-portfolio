@@ -2,11 +2,11 @@
 
 This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
 
-Live site: https://my-new-portfolio-beta-three.vercel.app/
+Live site: https://aditya-jain-portfolio-i2von49xo-aditya-jain-portfoli-site.vercel.app/
 
 Repository: https://github.com/aj0998-dotcom/my-new-portfoli
 
-Live status badge: [![Live on Vercel](https://img.shields.io/badge/deploy-vercel-000000?logo=vercel&logoColor=white)](https://my-new-portfolio-beta-three.vercel.app/)
+Live status badge: [![Live on Vercel](https://img.shields.io/badge/deploy-vercel-000000?logo=vercel&logoColor=white)](https://aditya-jain-portfolio-i2von49xo-aditya-jain-portfoli-site.vercel.app/)
 
 ## Table of Contents
 
