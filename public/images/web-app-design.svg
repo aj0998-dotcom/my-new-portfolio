@@ -1,0 +1,5 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="96" fill="#07122A"/>
+  <text x="50%" y="55%" fill="#F8FAFC" font-family="Arial" font-size="26" font-weight="700" text-anchor="middle">Web App</text>
+  <text x="50%" y="68%" fill="#60A5FA" font-family="Arial" font-size="20" text-anchor="middle">Design</text>
+</svg>
