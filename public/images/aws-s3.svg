@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="96" fill="#111827"/>
+  <path d="M116 322L186 170H224L154 322H116Z" fill="#F59E0B"/>
+  <path d="M212 322L282 170H320L250 322H212Z" fill="#FBBF24"/>
+  <path d="M308 322L378 170H416L346 322H308Z" fill="#F97316"/>
+  <path d="M144 362H368" stroke="#E2E8F0" stroke-width="16" stroke-linecap="round"/>
+  <text x="256" y="434" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle">AWS S3</text>
+</svg>

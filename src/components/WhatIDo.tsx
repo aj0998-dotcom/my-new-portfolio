@@ -87,20 +87,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & BACKEND</h3>
-              <h4>Production software with real data</h4>
+              <h3>FULL STACK</h3>
+              <h4>Frontend, backend, and delivery layers</h4>
               <p>
-                I build systems that move data cleanly from users to models and
-                back again, with a focus on reliability, speed, and clear UX.
+                I build portfolio-ready product experiences across the stack,
+                with a focus on React and Next.js on the frontend, RESTful APIs
+                on the backend, and reliable delivery.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Python</div>
-                <div className="what-tags">FastAPI</div>
-                <div className="what-tags">CatBoost</div>
-                <div className="what-tags">OpenCV</div>
-                <div className="what-tags">NumPy</div>
-                <div className="what-tags">SQL</div>
+                <div className="what-tags">Full-stack Development</div>
+                <div className="what-tags">JavaScript</div>
+                <div className="what-tags">React.js</div>
+                <div className="what-tags">Next.js</div>
+                <div className="what-tags">RESTful APIs</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,24 +124,19 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN &amp; SHIP</h3>
-              <h4>Applications that people can use</h4>
+              <h3>DATA & CLOUD</h3>
+              <h4>Persistence, processing, and storage</h4>
               <p>
-                I also enjoy building desktop and full-stack tools, from Java
-                apps with charts to student systems and automation dashboards.
+                The rest of my toolkit centers on Python services, databases,
+                and cloud storage so the products I build stay dependable as
+                they grow.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Java</div>
-                <div className="what-tags">JavaFX</div>
-                <div className="what-tags">Swing</div>
-                <div className="what-tags">Maven</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Flask</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">SQL</div>
                 <div className="what-tags">MongoDB</div>
-                <div className="what-tags">Git</div>
+                <div className="what-tags">AWS S3</div>
               </div>
               <div className="what-arrow"></div>
             </div>

@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="96" fill="#0B1220"/>
+  <ellipse cx="256" cy="150" rx="132" ry="42" fill="#38BDF8"/>
+  <path d="M124 150V332C124 355.196 183.04 374 256 374C328.96 374 388 355.196 388 332V150" stroke="#38BDF8" stroke-width="18"/>
+  <path d="M124 236C124 259.196 183.04 278 256 278C328.96 278 388 259.196 388 236" stroke="#E2E8F0" stroke-width="14" opacity="0.8"/>
+  <path d="M124 286C124 309.196 183.04 328 256 328C328.96 328 388 309.196 388 286" stroke="#E2E8F0" stroke-width="14" opacity="0.55"/>
+  <text x="256" y="456" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" text-anchor="middle">SQL</text>
+</svg>
